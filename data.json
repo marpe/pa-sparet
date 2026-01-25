@@ -8297,5 +8297,221 @@
         "lng": -43.1728965
       }
     ]
+  },
+  {
+    "date": "15 november 2024",
+    "locations": [
+      { "name": "Atlanta", "lat": 33.749, "lng": -84.38798 },
+      { "name": "Arboga", "lat": 59.3937, "lng": 15.8386 },
+      { "name": "Narvik", "lat": 68.4385, "lng": 17.4272 }
+    ]
+  },
+  {
+    "date": "22 november 2024",
+    "locations": [
+      { "name": "Delhi", "lat": 28.6139, "lng": 77.209 },
+      { "name": "Lissabon", "lat": 38.7223, "lng": -9.1393 },
+      { "name": "Gällivare", "lat": 67.1337, "lng": 20.6528 }
+    ]
+  },
+  {
+    "date": "29 november 2024",
+    "locations": [
+      { "name": "Kairo", "lat": 30.0444, "lng": 31.2357 },
+      { "name": "Gdansk", "lat": 54.352, "lng": 18.6466 },
+      { "name": "Strömstad", "lat": 58.9394, "lng": 11.1712 }
+    ]
+  },
+  {
+    "date": "6 december 2024",
+    "locations": [
+      { "name": "Uppsala", "lat": 59.8586, "lng": 17.6389 },
+      { "name": "Cancun", "lat": 21.1619, "lng": -86.8515 },
+      { "name": "Belfast", "lat": 54.5973, "lng": -5.9301 }
+    ]
+  },
+  {
+    "date": "13 december 2024",
+    "locations": [
+      { "name": "Hanoi", "lat": 21.0285, "lng": 105.8542 },
+      { "name": "Las Palmas", "lat": 28.1235, "lng": -15.4363 },
+      { "name": "Umeå", "lat": 63.8258, "lng": 20.263 }
+    ]
+  },
+  {
+    "date": "20 december 2024",
+    "locations": [
+      { "name": "Innsbruck", "lat": 47.2692, "lng": 11.4041 },
+      { "name": "Trosa", "lat": 58.8967, "lng": 17.5461 },
+      { "name": "Wuhan", "lat": 30.5928, "lng": 114.3055 }
+    ]
+  },
+  {
+    "date": "27 december 2024",
+    "locations": [
+      { "name": "Houston", "lat": 29.7604, "lng": -95.3698 },
+      { "name": "Sarajevo", "lat": 43.8563, "lng": 18.4131 },
+      { "name": "Kalmar", "lat": 56.6616, "lng": 16.3616 }
+    ]
+  },
+  {
+    "date": "3 januari 2025",
+    "locations": [
+      { "name": "London", "lat": 51.5074, "lng": -0.1278 },
+      { "name": "Maputo", "lat": -25.9692, "lng": 32.5732 },
+      { "name": "Gävle", "lat": 60.6749, "lng": 17.1413 }
+    ]
+  },
+  {
+    "date": "10 januari 2025",
+    "locations": [
+      { "name": "Reykjavik", "lat": 64.1466, "lng": -21.9426 },
+      { "name": "Sollefteå", "lat": 63.1667, "lng": 17.2667 },
+      { "name": "Panama City", "lat": 8.9824, "lng": -79.5199 }
+    ]
+  },
+  {
+    "date": "17 januari 2025",
+    "locations": [
+      { "name": "Paris", "lat": 48.8566, "lng": 2.3522 },
+      { "name": "Mexico City", "lat": 19.4326, "lng": -99.1332 },
+      { "name": "Borlänge", "lat": 60.484, "lng": 15.4371 }
+    ]
+  },
+  {
+    "date": "24 januari 2025",
+    "locations": [
+      { "name": "Malmö", "lat": 55.605, "lng": 13.0038 },
+      { "name": "Bangkok", "lat": 13.7563, "lng": 100.5018 },
+      { "name": "Sheffield", "lat": 53.3811, "lng": -1.4701 }
+    ]
+  },
+  {
+    "date": "31 januari 2025",
+    "locations": [
+      { "name": "Göteborg", "lat": 57.7089, "lng": 11.9746 },
+      { "name": "Skagen", "lat": 57.7209, "lng": 10.5839 },
+      { "name": "Brisbane", "lat": -27.4698, "lng": 153.0251 }
+    ]
+  },
+  {
+    "date": "7 februari 2025",
+    "locations": [
+      { "name": "Rom", "lat": 41.9028, "lng": 12.4964 },
+      { "name": "Vansbro", "lat": 60.5167, "lng": 14.2167 },
+      { "name": "Orlando", "lat": 28.5383, "lng": -81.3792 }
+    ]
+  },
+  {
+    "date": "24 oktober 2025",
+    "locations": [
+      { "name": "Borås", "lat": 57.721035, "lng": 12.939819 },
+      { "name": "Lima", "lat": -12.0463731, "lng": -77.042754 },
+      { "name": "Manchester", "lat": 53.4807593, "lng": -2.2426305 }
+    ]
+  },
+  {
+    "date": "31 oktober 2025",
+    "locations": [
+      { "name": "Helsingfors", "lat": 60.1698557, "lng": 24.938379 },
+      { "name": "Eslöv", "lat": 55.8391198, "lng": 13.3033914 },
+      { "name": "Sydney", "lat": -33.8688197, "lng": 151.2092955 }
+    ]
+  },
+  {
+    "date": "7 november 2025",
+    "locations": [
+      { "name": "Helsingborg", "lat": 56.0464674, "lng": 12.6945121 },
+      { "name": "Bergen", "lat": 60.3912628, "lng": 5.3220544 },
+      { "name": "Marrakech", "lat": 31.6294723, "lng": -7.9810845 }
+    ]
+  },
+  {
+    "date": "14 november 2025",
+    "locations": [
+      { "name": "Lyon", "lat": 45.764043, "lng": 4.835659 },
+      { "name": "Arjeplog", "lat": 66.0517, "lng": 17.8906 },
+      { "name": "Dakar", "lat": 14.716677, "lng": -17.4676861 }
+    ]
+  },
+  {
+    "date": "21 november 2025",
+    "locations": [
+      { "name": "Tokyo", "lat": 35.6761919, "lng": 139.6503106 },
+      { "name": "Madrid", "lat": 40.4167754, "lng": -3.7037902 },
+      { "name": "Falkenberg", "lat": 56.9027333, "lng": 12.4888013 }
+    ]
+  },
+  {
+    "date": "28 november 2025",
+    "locations": [
+      { "name": "Karlstad", "lat": 59.4021806, "lng": 13.5114977 },
+      { "name": "Basel", "lat": 47.5595986, "lng": 7.5885761 },
+      { "name": "Miami", "lat": 25.7616798, "lng": -80.1917902 }
+    ]
+  },
+  {
+    "date": "5 december 2025",
+    "locations": [
+      { "name": "Nyköping", "lat": 58.7528439, "lng": 17.0091593 },
+      { "name": "Bukarest", "lat": 44.4267674, "lng": 26.1025384 },
+      { "name": "Montreal", "lat": 45.5018869, "lng": -73.5673919 }
+    ]
+  },
+  {
+    "date": "12 december 2025",
+    "locations": [
+      { "name": "Shanghai", "lat": 31.230416, "lng": 121.473701 },
+      { "name": "Milano", "lat": 45.4642035, "lng": 9.189982 },
+      { "name": "Malung", "lat": 60.686372, "lng": 13.720966 }
+    ]
+  },
+  {
+    "date": "19 december 2025",
+    "locations": [
+      { "name": "Värnamo", "lat": 57.1831605, "lng": 14.0478214 },
+      { "name": "Montevideo", "lat": -34.9011127, "lng": -56.1645314 },
+      { "name": "Amsterdam", "lat": 52.3675734, "lng": 4.9041389 }
+    ]
+  },
+  {
+    "date": "26 december 2025",
+    "locations": [
+      { "name": "Västerås", "lat": 59.6099005, "lng": 16.5448091 },
+      { "name": "Sofia", "lat": 42.6977082, "lng": 23.3218675 },
+      { "name": "San Diego", "lat": 32.715738, "lng": -117.1610838 }
+    ]
+  },
+  {
+    "date": "2 januari 2026",
+    "locations": [
+      { "name": "Calcutta", "lat": 22.572646, "lng": 88.363895 },
+      { "name": "Kramfors", "lat": 62.9284332, "lng": 17.7862947 },
+      { "name": "Berlin", "lat": 52.5200066, "lng": 13.404954 }
+    ]
+  },
+  {
+    "date": "9 januari 2026",
+    "locations": [
+      { "name": "Sölvesborg", "lat": 56.0537433, "lng": 14.5796878 },
+      { "name": "Auckland", "lat": -36.8508827, "lng": 174.7644881 },
+      { "name": "Dublin", "lat": 53.3498053, "lng": -6.2603097 }
+    ]
+  },
+  {
+    "date": "16 januari 2026",
+    "locations": [
+      { "name": "Lusaka", "lat": -15.3875259, "lng": 28.3228165 },
+      { "name": "Aten", "lat": 37.9838096, "lng": 23.7275388 },
+      { "name": "Söderhamn", "lat": 61.3055762, "lng": 17.0628102 }
+    ]
+  },
+  {
+    "date": "23 januari 2026",
+    "locations": [
+      { "name": "Wien", "lat": 48.2081743, "lng": 16.3738189 },
+      { "name": "Örebro", "lat": 59.2752626, "lng": 15.2134105 },
+      { "name": "Chicago", "lat": 41.8781136, "lng": -87.6297982 }
+    ]
   }
 ]
